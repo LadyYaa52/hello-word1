@@ -1,2 +1,1 @@
-# hello-word1
-This project is to re-practice my first  project
+GitHub is an important skill one need to have to be a successful developer.
